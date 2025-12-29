@@ -39,8 +39,8 @@ Hey! I am @danictlee. I am
 ### 📊 The Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=f8d866" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=61dafb" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danictlee&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=f8d866" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danictlee&layout=compact&theme=transparent&hide_border=true&title_color=61dafb" height="150" alt="languages graph" />
 </div>
 
 ---
